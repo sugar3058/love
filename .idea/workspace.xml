@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31a8e94f-ca1c-4cc8-a230-65d2c20371ab" name="Default Changelist" comment="提交第一次">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/LoveSourceCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex-async-powerpack.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex-async.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex-builderbase.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex-jit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/jscex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/file/love.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表白网页款式二源码/renxi.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IT\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CCN4pP4rHxIvlLSpGksuH8eHzy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a8e94f-ca1c-4cc8-a230-65d2c20371ab" name="Default Changelist" comment="" />
+      <created>1658302417117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658302417117</updated>
+      <workItem from="1658302419395" duration="3054000" />
+      <workItem from="1658382795783" duration="75000" />
+      <workItem from="1658384843027" duration="223000" />
+      <workItem from="1658385073282" duration="128000" />
+      <workItem from="1658385211010" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="提交第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第一次" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658303386340">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="700" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1658303386340" />
+    <state x="563" y="81" key="CommitChangelistDialog2" timestamp="1658385062533">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="563" y="81" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1658385062533" />
+    <state x="745" y="258" key="FileChooserDialogImpl" timestamp="1658385124478">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="745" y="258" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1658385124478" />
+    <state x="628" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1658303171211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="628" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1658303171211" />
+    <state x="795" y="308" key="svn.repositoryBrowser" timestamp="1658385132559">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="795" y="308" key="svn.repositoryBrowser/0.0.1920.1032@0.0.1920.1032" timestamp="1658385132559" />
+    <state x="682" y="279" key="svn4idea.import.options" timestamp="1658385130798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="682" y="279" key="svn4idea.import.options/0.0.1920.1032@0.0.1920.1032" timestamp="1658385130798" />
+  </component>
+</project>
